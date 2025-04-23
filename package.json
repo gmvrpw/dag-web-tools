@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "@graph-toolkit/dag",
+  "name": "@gmvrpw/dag",
   "version": "0.8.0",
   "description": "Typescript toolkit for directed acyclic graph",
   "module": "dist/index.es.js",
