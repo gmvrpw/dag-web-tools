@@ -4,3 +4,4 @@ export * from './DirectedAcyclicGraph';
 export * from './NodeWithActions';
 export * from './OrderedMultipartite';
 // Change lib
+// New feature
