@@ -52,8 +52,8 @@ jobs:
     strategy:
       matrix:
         include:
-          - registry: 'https://registry.npmjs.org'
-            token: 'NPM_TOKEN'
+          # - registry: 'https://registry.npmjs.org'
+          #  token: 'NPM_TOKEN'
           - registry: 'https://npm.pkg.github.com'
             token: 'GITHUB_TOKEN'
     steps:
